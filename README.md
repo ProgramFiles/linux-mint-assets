@@ -6,6 +6,6 @@ Linux Mint assets not ported to 18
 
 ### Icons
 
-Icons: via Mint 17 Qiana,
+Icons via Mint 17 Qiana (own installation),
 - all image rights to respective owners where applicable
 - images provided for community use (as is the OS itself)
